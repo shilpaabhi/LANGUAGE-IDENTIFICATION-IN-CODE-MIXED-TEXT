@@ -1,4 +1,4 @@
-# transliteration
+# Transliteration
 
 In Transliteration
 Phase transliteration is takes places with the help of google Api. For this Purpose, we
